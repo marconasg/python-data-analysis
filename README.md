@@ -10,4 +10,10 @@ Com o intuito de me aprofundar nos estudos em __Análise de Dados__, atualmente 
 - [Odemir Depieri Jr](https://www.linkedin.com/in/odemir-depieri-jr/)
 - [Ronisson Lucas](https://www.linkedin.com/in/ronisson-lucas-calmon-da-concei%C3%A7%C3%A3o-7aa884202/)
 
+## Notebooks:
+- [Estatística Descritiva](Notebooks/estatistica-descritiva.ipynb)
+- [Pandas](Notebooks/pandas.ipynb)
+- [Matplotlib](Notebooks/matplotlib.ipynb)
+- [Seaborn](Notebooks/seaborn.ipynb)
+
 ![](assets/bot-reps-pythondvk.jpg)
